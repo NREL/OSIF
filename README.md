@@ -15,7 +15,7 @@ The user must have impedance data in one of the following formats (see example d
 Where in Z' is the real part of the measured impedance, Z'' is the imaginary part of the measured impedance, and Z is the modulus of the measured impedance.
   
   
-For instructions on how to, install python on a windows or mac platform (in order to use OSIF) and running OSIF as well more information on how OSIF works see the "How to Use OSIF" file in the repository.
+For instructions on how to, install python on a windows or mac platform (in order to use OSIF) and running OSIF as well as more information on how OSIF works see the "How to Use OSIF" file in the repository.
 
 
 
