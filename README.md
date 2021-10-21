@@ -1,4 +1,4 @@
-Open Source Impedance Fitter (OSIF) is a program that allows the user to fit electrochemical impedance spectra of Proton-exchange membrane fuel cells collected under a hydrogen/nitrogen (anode/cathode) environment to an accepted quasi-transmission line model (1).
+Open Source Impedance Fitter (OSIF) is a program that allows the user to fit electrochemical impedance spectra of Proton-exchange membrane fuel cells collected under a hydrogen/nitrogen (anode/cathode) environment to an accepted quasi-transmission line model (1), or one dimentional linear diffusion or spherical diffusion models (2).
 
 To use OSIF, the following non-default python packages will have to be downloaded:
   - xlrd
@@ -20,3 +20,5 @@ For instructions on how to, install python on a windows or mac platform (in orde
 
 
 (1) Setzler, B. P., & Fuller, T. F. (2015). A Physics-Based Impedance Model of Proton Exchange Membrane Fuel Cells Exhibiting Low-Frequency Inductive Loops. Journal of The Electrochemical Society, 162(6), F519-F530. doi:10.1149/2.0361506jes
+(2) Jean-Paul Diard (BioLogic), Bernard Le Gorrec (UJFG-INPG), C Montella. Handbook of Electrochemical Impedance Spectroscopy. DIFFUSION IMPEDANCES.
+https://www.researchgate.net/publication/342833389_Handbook_of_Electrochemical_Impedance_Spectroscopy_DIFFUSION_IMPEDANCES
